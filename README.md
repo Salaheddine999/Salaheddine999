@@ -1,5 +1,5 @@
 Hey there 👋
-- I’m Salah eddine. A web developer and space 🚀 lover
+- I’m Salah eddine. A web developer and space 🚀 enthusiast
 - I'm passionate about new technologies.
 - Currently diving deep into React and Typescript
 - 📫 You can reach me on [twitter](https://twitter.com/salaheddine_ab) or [gmail](mailto:abdelwahid.salaheddine@gmail.com)
