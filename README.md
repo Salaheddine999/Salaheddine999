@@ -1,7 +1,7 @@
 Hey there 👋
-- I’m Salah eddine. A web developer and space 🚀 enthusiast
+- I’m Salah eddine. A web developer and astronomy 🚀 enthusiast.
 - I'm passionate about new technologies.
-- Currently diving deep into React and Typescript
+- Currently diving deep into React and TypeScript
 - 📫 You can reach me on [twitter](https://twitter.com/salaheddine_ab) or [gmail](mailto:abdelwahid.salaheddine@gmail.com)
 
 <!---
